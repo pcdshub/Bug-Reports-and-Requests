@@ -21,3 +21,5 @@
 
 ## Your Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
+<!--- This may include the versions of any external software you maybe -->
+<!--- interacting with i.e IOCs, DAQ releases e.t.c -->
